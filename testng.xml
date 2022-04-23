@@ -6,4 +6,7 @@
 			<class name="YoutubeSearchTests.YoutubeSearchTest" />
 		</classes>
 	</test>
+	<listeners>
+		<listener class-name="Helpers.TestListeners" />
+	</listeners>
 </suite>

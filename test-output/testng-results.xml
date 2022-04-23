@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-23T01:59:54 EET" name="Suite" finished-at="2022-04-23T02:00:07 EET" duration-ms="12707">
+  <suite started-at="2022-04-23T15:14:38 EET" name="Suite" finished-at="2022-04-23T15:14:51 EET" duration-ms="12873">
     <groups>
     </groups>
-    <test started-at="2022-04-23T01:59:54 EET" name="YoutubeTest" finished-at="2022-04-23T02:00:07 EET" duration-ms="12707">
+    <test started-at="2022-04-23T15:14:38 EET" name="YoutubeTest" finished-at="2022-04-23T15:14:51 EET" duration-ms="12873">
       <class name="YoutubeSearchTests.YoutubeSearchTest">
-        <test-method signature="youtubeTitleAssertion(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:YoutubeSearchTests.YoutubeSearchTest@1b1426f4]" started-at="2022-04-23T01:59:54 EET" name="youtubeTitleAssertion" data-provider="youtubeSearchData" finished-at="2022-04-23T02:00:07 EET" duration-ms="12253" status="PASS">
+        <test-method signature="youtubeTitleAssertion(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:YoutubeSearchTests.YoutubeSearchTest@32b260fa]" started-at="2022-04-23T15:14:39 EET" name="youtubeTitleAssertion" data-provider="youtubeSearchData" finished-at="2022-04-23T15:14:50 EET" duration-ms="11911" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,7 +33,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- youtubeTitleAssertion -->
-        <test-method signature="youtubeTitleAssertion(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:YoutubeSearchTests.YoutubeSearchTest@1b1426f4]" started-at="2022-04-23T01:59:54 EET" name="youtubeTitleAssertion" data-provider="youtubeSearchData" finished-at="2022-04-23T02:00:07 EET" duration-ms="12299" status="PASS">
+        <test-method signature="youtubeTitleAssertion(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:YoutubeSearchTests.YoutubeSearchTest@32b260fa]" started-at="2022-04-23T15:14:39 EET" name="youtubeTitleAssertion" data-provider="youtubeSearchData" finished-at="2022-04-23T15:14:51 EET" duration-ms="12343" status="PASS">
           <params>
             <param index="0">
               <value>

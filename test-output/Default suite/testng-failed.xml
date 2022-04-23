@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.YoutubeSearch.YoutubeSearchTestSet">
+      <class name="YoutubeSearchTests.YoutubeSearchTest">
         <methods>
-          <include name="youtubeTitleAssertion" invocation-numbers="0 1"/>
+          <include name="youtubeTitleAssertion" invocation-numbers="1 0"/>
         </methods>
-      </class> <!-- com.YoutubeSearch.YoutubeSearchTestSet -->
+      </class> <!-- YoutubeSearchTests.YoutubeSearchTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
